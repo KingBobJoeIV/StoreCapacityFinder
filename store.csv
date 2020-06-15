@@ -1,0 +1,6 @@
+StoreName,Type,x,y,TotalCapacitance,NumPeople,RateofTraffic
+Trader Joes,Grocery,-121,37,50,109,2
+Safeway,Grocery,-120,37,100,27,-2
+Staples,Supply,-119,38,25,183,5
+Costco,Grocery,-118,37.5,200,380,5
+Home Depot,Hardware,-118,34,75,-84,-4
